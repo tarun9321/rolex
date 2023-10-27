@@ -2,4 +2,10 @@ hi guys
 learning devops
 this is
 a very good day
+<<<<<<< HEAD
 i love devops
+=======
+gihiiibh
+changig
+ss
+>>>>>>> refs/remotes/origin/main
